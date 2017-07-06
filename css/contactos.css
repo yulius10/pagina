@@ -1,0 +1,117 @@
+.cf1wrapper {
+    min-width:180px;
+    max-width:980px;
+    max-height:1024px;
+    position:absolute;
+    width:100%;
+}
+.cf1_hiddenField {
+    display:none !important;
+}
+.cf1 span {
+    color:#938411;
+    float:left;
+    font:normal 14px 'Helvetica Neue', Helvetica, sans-serif;
+    max-width:60%;
+}
+.cf1 span.cf1_success {
+    color:#B8A516;
+}
+.cf1 span.cf1_error {
+    color:#D63535;
+}
+.cf1 button,.cf1 input,.cf1 textarea {
+    border-radius:0;
+    padding:5px;
+}
+.cf1 input,.cf1 textarea {
+    font:normal normal normal 16px/1.3em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif ;
+    background-color:rgba(32, 30, 55, 0.36);
+    -webkit-appearance:none;-moz-appearance:none;
+    border:1px solid rgba(65, 60, 110, 1);
+    color:#938411;margin:0 0 5px;width:100%;
+}
+.cf1 input.cf1_error,.cf1 textarea.cf1_error {
+    font:normal normal normal 16px/1.3em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif ;
+    border:1px solid #D63535;
+    color:#D63535;
+}
+.cf1 input::-webkit-input-placeholder,.cf1 textarea::-webkit-input-placeholder {
+    color:#A9A9A9;
+}
+.cf1 input:-ms-input-placeholder,.cf1 textarea:-ms-input-placeholder {
+    color:#A9A9A9;
+}
+.cf1 input::placeholder,.cf1 textarea::placeholder {
+    color:#A9A9A9;
+}
+.cf1 button {
+    background-color:rgba(65, 60, 110, 0.75);
+    font:normal normal normal 16px/1.3em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif ;
+    border:0;color:#938411;
+    cursor:pointer;
+    float:right;
+    margin:0;
+    max-width:35%;
+}
+.cf1 textarea {
+    min-height:130px;
+    resize:none;
+}
+.cf1[data-state~="mobile"] input {
+    color:#938411;
+    font-size:16px;
+    height:45px;
+    line-height:45px;
+    margin:0 0 15px;
+    padding:0 5px;
+}
+.cf1[data-state~="mobile"] input::-webkit-input-placeholder {
+    color:#A9A9A9;
+    font-size:16px;
+}
+.cf1[data-state~="mobile"] input:-ms-input-placeholder {
+    color:#A9A9A9;
+    font-size:16px;
+}
+.cf1[data-state~="mobile"] input::placeholder {
+    color:#A9A9A9;
+    font-size:16px;
+}
+.cf1[data-state~="mobile"] textarea {
+    color:#938411;
+    font-size:16px;
+    height:150px;
+    margin:0 0 10px;
+}
+.cf1[data-state~="mobile"]::-webkit-input-placeholder {
+    color:#A9A9A9;
+    font-size:16px;
+}
+.cf1[data-state~="mobile"]:-ms-input-placeholder {
+    color:#A9A9A9;
+    font-size:16px;
+}
+.cf1[data-state~="mobile"]::placeholder {
+    color:#A9A9A9;
+    font-size:16px;
+}
+.cf1[data-state~="right"] {
+    direction:rtl;
+    text-align:right;
+}
+.cf1[data-state~="right"] span {
+    float:right;
+}
+.cf1[data-state~="right"] button {
+    float:left;
+}
+.cf1[data-state~="left"] {
+    direction:ltr;text-align:left;
+}
+.cf1[data-state~="left"] span {
+    float:left;
+}
+.cf1[data-state~="left"] button {
+    float:right;
+}

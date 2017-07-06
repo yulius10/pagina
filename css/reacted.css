@@ -1,0 +1,1168 @@
+.font_0 {
+    font: normal normal bold 40px/1.1em museo-slab-w01-100,serif ;
+    color:#B8A516;
+} 
+.font_1 {
+    font: normal normal normal 20px/1.1em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif ;
+    color:#E8DC82;
+} 
+.font_2 {
+    font: normal normal normal 33px/1.1em museo-slab-w01-100,serif ;
+    color:#B8A516;
+} 
+.font_3 {
+    font: normal normal normal 60px/1.1em museo-slab-w01-100,serif ;
+    color:#FFFFFF;
+} 
+.font_4 {
+    font: normal normal normal 40px/1.3em museo-slab-w01-100,serif ;
+    color:#FFFFFF;
+} 
+.font_5 {
+    font: normal normal bold 25px/1.2em museo-slab-w01-100,serif ;
+    color:#B8A516;
+} 
+.font_6 {
+    font: normal normal bold 21px/1.3em museo-slab-w01-100,serif ;
+    color:#B8A516;
+} 
+.font_7 {
+    font: normal normal normal 20px/1.3em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif ;
+    color:#B8A516;
+} 
+.font_8 {
+    font: normal normal normal 16px/1.3em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif ;
+    color:#FFFFFF;
+} 
+.font_9 {
+    font: normal normal normal 13px/1.3em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif ;
+    color:#FFFFFF;
+} 
+.font_10 {
+    font: normal normal bold 11px/1.3em 'Open Sans',sans-serif ;
+    color:#FFFFFF;
+} 
+.color_0 {
+    color: #FFFFFF;
+}
+.backcolor_0 {
+    background-color: #FFFFFF;
+}
+.color_1 {
+    color: #000000;
+}
+.backcolor_1 {
+    background-color: #000000;
+}
+.color_2 {
+    color: #FFFFFF;
+}
+.backcolor_2 {
+    background-color: #FFFFFF;
+}
+.color_3 {
+    color: #FFCB05;
+}
+.backcolor_3 {
+    background-color: #FFCB05;
+}
+.color_4 {
+    color: #ED1C24;
+}
+.backcolor_4 {
+    background-color: #ED1C24;
+}
+.color_5 {
+    color: #0088CB;
+}
+.backcolor_5 {
+    background-color: #0088CB;
+}
+.color_6 {
+    color: #000000;
+}
+.backcolor_6 {
+    background-color: #000000;
+}
+.color_7 {
+    color: #000000;
+}
+.backcolor_7 {
+    background-color: #000000;
+}
+.color_8 {
+    color: #FFFFFF;
+}
+.backcolor_8 {
+    background-color: #FFFFFF;
+}
+.color_9 {
+    color: #000000;
+}
+.backcolor_9 {
+    background-color: #000000;
+}
+.color_10 {
+    color: #FFFFFF;
+}
+.backcolor_10 {
+    background-color: #FFFFFF;
+}
+.color_11 {
+    color: #201E37;
+}
+.backcolor_11 {
+    background-color: #201E37;
+}
+.color_12 {
+    color: #413C6E;
+}
+.backcolor_12 {
+    background-color: #413C6E;
+}
+.color_13 {
+    color: #625BA5;
+}
+.backcolor_13 {
+    background-color: #625BA5;
+}
+.color_14 {
+    color: #9B97C3;
+}
+.backcolor_14 {
+    background-color: #9B97C3;
+}
+.color_15 {
+    color: #FFFFFF;
+}
+.backcolor_15 {
+    background-color: #FFFFFF;
+}
+.color_16 {
+    color: #332D05;
+}
+.backcolor_16 {
+    background-color: #332D05;
+}
+.color_17 {
+    color: #494208;
+}
+.backcolor_17 {
+    background-color: #494208;
+}
+.color_18 {
+    color: #938411;
+}
+.backcolor_18 {
+    background-color: #938411;
+}
+.color_19 {
+    color: #B8A516;
+}
+.backcolor_19 {
+    background-color: #B8A516;
+}
+.color_20 {
+    color: #E8DC82;
+}
+.backcolor_20 {
+    background-color: #E8DC82;
+}
+.color_21 {
+    color: #2D0F3F;
+}
+.backcolor_21 {
+    background-color: #2D0F3F;
+}
+.color_22 {
+    color: #5A1E7F;
+}
+.backcolor_22 {
+    background-color: #5A1E7F;
+}
+.color_23 {
+    color: #88629F;
+}
+.backcolor_23 {
+    background-color: #88629F;
+}
+.color_24 {
+    color: #AC8EBF;
+}
+.backcolor_24 {
+    background-color: #AC8EBF;
+}
+.color_25 {
+    color: #CEB4DF;
+}
+.backcolor_25 {
+    background-color: #CEB4DF;
+}
+.color_26 {
+    color: #252D2D;
+}
+.backcolor_26 {
+    background-color: #252D2D;
+}
+.color_27 {
+    color: #4A5B5A;
+}
+.backcolor_27 {
+    background-color: #4A5B5A;
+}
+.color_28 {
+    color: #6F8987;
+}
+.backcolor_28 {
+    background-color: #6F8987;
+}
+.color_29 {
+    color: #94B7B4;
+}
+.backcolor_29 {
+    background-color: #94B7B4;
+}
+.color_30 {
+    color: #B9E5E1;
+}
+.backcolor_30 {
+    background-color: #B9E5E1;
+}
+.color_31 {
+    color: #471111;
+}
+.backcolor_31 {
+    background-color: #471111;
+}
+.color_32 {
+    color: #8E2323;
+}
+.backcolor_32 {
+    background-color: #8E2323;
+}
+.color_33 {
+    color: #D63535;
+}
+.backcolor_33 {
+    background-color: #D63535;
+}
+.color_34 {
+    color: #E38E8E;
+}
+.backcolor_34 {
+    background-color: #E38E8E;
+}
+.color_35 {
+    color: #F1B5B5;
+}
+.backcolor_35 {
+    background-color: #F1B5B5;
+}
+.hc1screenWidthBackground {
+    position:absolute;top:0;right:0;bottom:0;left:0;
+}
+.hc1[data-state~="mobileView"] {
+    position:absolute !important;
+}
+.hc1[data-state~="fixedPosition"] {
+    position:fixed !important;
+    left:auto !important;
+    z-index:50;
+}
+.hc1[data-state~="fixedPosition"].hc1_footer {
+    top:auto;bottom:0;
+}
+.hc1bg {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.hc1inlineContent {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.hc1centeredContent {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.bgis1bg {
+    background-color:rgba(32, 30, 55, 0.75);
+    position:absolute;
+    top:0px;
+    right:0;
+    bottom:0px;
+    left:0;
+    box-shadow:0 0 5px rgba(0, 0, 0, 0.7);
+}
+.bgis1_outer {
+    position:absolute;
+    top:6px;
+    right:0;
+    bottom:6px;
+    left:0;
+    border-top:0px solid rgba(255, 255, 255, 1);
+    border-bottom:0px solid rgba(255, 255, 255, 1);
+}
+.bgis1_inner {
+    position:absolute;
+    top:0px;
+    right:0;
+    bottom:0px;
+    left:0;
+    border-top:1px solid rgba(98, 91, 165, 1);
+    border-bottom:1px solid rgba(98, 91, 165, 1);
+}
+.bgis1inlineContent {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.txtNew {
+    word-wrap:break-word;
+}
+.txtNew_override-left * {
+    text-align:left !important;
+}
+.txtNew_override-right * {
+    text-align:right !important;
+}
+.txtNew_override-center * {
+    text-align:center !important;
+}
+.txtNew_override-justify * {
+    text-align:justify !important;
+}
+.txtNew li {
+    font-style:inherit;
+    font-weight:inherit;
+    line-height:inherit;
+    letter-spacing:normal;
+}
+.txtNew ol,.txtNew ul {
+    padding-left:1.3em;
+    padding-right:0;
+    margin-left:0.5em;
+    margin-right:0;
+    line-height:normal;
+    letter-spacing:normal;
+}
+.txtNew ul {
+    list-style-type:disc;
+}
+.txtNew ol {
+    list-style-type:decimal;
+}
+.txtNew ul ul,.txtNew ol ul {
+    list-style-type:circle;
+}
+.txtNew ul ul ul,.txtNew ol ul ul {
+    list-style-type:square;
+}
+.txtNew ul ol ul,.txtNew ol ol ul {
+    list-style-type:square;
+}
+.txtNew ul[dir="rtl"],.txtNew ol[dir="rtl"] {
+    padding-left:0;
+    padding-right:1.3em;
+    margin-left:0;
+    margin-right:0.5em;
+}
+.txtNew ul[dir="rtl"] ul,.txtNew ul[dir="rtl"] ol,.txtNew ol[dir="rtl"] ul,.txtNew ol[dir="rtl"] ol {
+    padding-left:0;
+    padding-right:1.3em;
+    margin-left:0;
+    margin-right:0.5em;
+}
+.txtNew p {
+    margin:0;
+    line-height:normal;
+    letter-spacing:normal;
+}
+.txtNew h1 {
+    margin:0;
+    line-height:normal;
+    letter-spacing:normal;
+}
+.txtNew h2 {
+    margin:0;
+    line-height:normal;
+    letter-spacing:normal;
+}
+.txtNew h3 {
+    margin:0;
+    line-height:normal;
+    letter-spacing:normal;
+}
+.txtNew h4 {
+    margin:0;
+    line-height:normal;
+    letter-spacing:normal;
+}
+.txtNew h5 {
+    margin:0;
+    line-height:normal;
+    letter-spacing:normal;
+}
+.txtNew h6 {
+    margin:0;
+    line-height:normal;
+    letter-spacing:normal;
+}
+.txtNew a {
+    color:inherit;
+}
+.wp2_zoomedin {
+    cursor:url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/cursor_zoom_out.png), url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/cursor_zoom_out.cur), auto;
+    overflow:hidden;
+    display:block;
+}
+.wp2_zoomedout {
+    cursor:url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/cursor_zoom_in.png), url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/cursor_zoom_in.cur), auto;
+}
+.wp2link {
+    display:block;
+    overflow:hidden;
+}
+.wp2img {
+    overflow:hidden;
+}
+.wp2imgimage {
+    position:static;
+    box-shadow:#000 0 0 0;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+.ddm1itemsContainer {
+    width:calc(100% - 0px);
+    height:calc(100% - 0px);
+    white-space:nowrap;
+    display:inline-block;
+    overflow:visible;
+    position:relative;
+}
+.ddm1moreContainer {
+    overflow:visible;
+    display:inherit;
+    white-space:nowrap;
+    width:auto;
+    background-color:transparent;border-radius:0;
+}
+.ddm1dropWrapper {
+    z-index:99999;
+    display:block;
+    opacity:1;
+    visibility:hidden;
+    position:absolute;
+    margin-top:7px;
+}
+.ddm1[data-dropmode="dropUp"] .ddm1dropWrapper {
+    margin-top:0;
+    margin-bottom:7px;
+}
+.ddm1repeaterButton {
+    height:100%;
+    position:relative;
+    box-sizing:border-box;
+    display:inline-block;
+    cursor:pointer;
+    font:normal normal normal 20px/1.1em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif ;
+    border-left:1px solid rgba(65, 60, 110, 1);
+}
+.ddm1repeaterButton[data-state~="header"] a,.ddm1repeaterButton[data-state~="header"] div {
+    cursor:default !important;
+}
+.ddm1repeaterButtonlabel {
+    color:#B8A516;
+    transition: color 0.4s ease 0s; 
+    display:inline-block;
+    padding:0 10px;
+}
+.ddm1repeaterButton_wrapper {
+    padding:0 15px;
+}
+.ddm1repeaterButton:first-child[data-direction="ltr"] {
+    border:0;
+}
+.ddm1repeaterButton:last-child[data-direction="rtl"] {
+    border:0;
+}
+.ddm1repeaterButton[data-listposition="lonely"] {
+    border:0;
+}
+.ddm1repeaterButton[data-state~="over"] .ddm1repeaterButtonlabel {
+    color:#9B97C3;
+    transition: color 0.4s ease 0s;
+}
+.ddm1repeaterButton[data-state~="selected"] .ddm1repeaterButtonlabel {
+    color:#625BA5;
+    transition: color 0.4s ease 0s;
+}
+.ddm1repeaterButton[data-state~="drop"] {
+    width:100%;
+    display:block;
+    border:0;border-top:1px solid rgba(65, 60, 110, 1);
+}
+.ddm1repeaterButton[data-state~="drop"] .ddm1repeaterButtonlabel{
+    display:inline-block;
+    padding:0 .5em;
+}
+.ddm1repeaterButton[data-state~="drop"] .ddm1repeaterButton_wrapper {
+    padding:0;
+}
+.ddm1repeaterButton[data-listposition="top"] {
+    border:0;
+}
+.ddm1repeaterButton[data-listposition="dropLonely"] {
+    border:0;
+}
+.pc1screenWidthBackground {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.pc1[data-state~="mobileView"] {
+    position:absolute !important;
+}
+.pc1[data-state~="fixedPosition"] {
+    position:fixed !important;
+    left:auto !important;
+    z-index:50;
+}
+.pc1[data-state~="fixedPosition"].pc1_footer {
+    top:auto;
+    bottom:0;
+}
+.pc1bg {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.pc1inlineContent {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.pc1centeredContent {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.s_VOwPageGroupSkin {
+    height:100px;
+    width:100px;
+}
+.s_VOwPageGroupSkinoverlay {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    background-color:rgba(0, 0, 0, 0.664);
+}
+.s_VOwPageGroupSkininlineContent {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.fc1screenWidthBackground {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.fc1[data-state~="mobileView"] {
+    position:absolute !important;
+}
+.fc1[data-state~="fixedPosition"] {
+    position:fixed !important;
+    left:auto !important;
+    z-index:50;
+}
+.fc1[data-state~="fixedPosition"].fc1_footer {
+    top:auto;bottom:0;
+}
+.fc1bg {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.fc1inlineContent {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.fc1centeredContent {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.p1bg {
+    border:1px solid rgba(98, 91, 165, 1);
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    background-color:rgba(32, 30, 55, 0.75);
+    border-radius:0; 
+}
+.p1[data-state~="mobileView"] .p1bg {
+    left:10px;right:10px;
+}
+.p1inlineContent {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    bottom:20px;
+}
+.WPht2-yiv_hok76ffb_zoomedin {
+    cursor:url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/cursor_zoom_out.png), url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/cursor_zoom_out.cur), auto;
+    overflow:hidden;
+    display:block;
+}
+.WPht2-yiv_hok76ffb_zoomedout {
+    cursor:url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/cursor_zoom_in.png), url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/cursor_zoom_in.cur), auto;
+}
+.WPht2-yiv_hok76ffblink {
+    display:block;
+    overflow:hidden;
+}
+.WPht2-yiv_hok76ffbimg {
+    overflow:hidden;
+}
+.WPht2-yiv_hok76ffbimgimage {
+    position:static;
+    box-shadow:#000 0 0 0;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+.wp1_zoomedin {
+    cursor:url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/cursor_zoom_out.png), url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/cursor_zoom_out.cur), auto;
+    overflow:hidden;
+    display:block;
+}
+.wp1_zoomedout {
+    cursor:url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/cursor_zoom_in.png), url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/cursor_zoom_in.cur), auto;
+}
+.wp1link {
+    display:block;border-radius:0;   
+    background-color:rgba(65, 60, 110, 1);
+    border:1px solid rgba(65, 60, 110, 1);
+    overflow:hidden;
+    height:100%;
+}
+.wp1img {
+    overflow:hidden;
+    border-radius:calc(0px - 1px);
+}
+.wp1imgimage {
+    position:static;
+    box-shadow:#000 0 0 0;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+.hl1 {
+    border-bottom:1px solid rgba(98, 91, 165, 1);
+    height:0 !important;
+    min-height:0 !important;
+}
+.wixAdsmobileAd {
+    width:100%;
+    height:30px;
+    position:relative;
+    display:block;
+    text-align:center;
+    background-color:#313131;
+    z-index:999;
+}
+.wixAdsdesktopWADBottom {
+    position:fixed;
+    z-index:999;
+    width:100%;
+    bottom:0;
+    max-height:10vh;
+}
+.wixAdsdesktopWADBottomContent {
+    width:100%;height:40px;
+    text-align:center;
+    background-color:#404040;
+    border-radius:6px 6px 0 0;
+    pointer-events:all;
+    cursor:pointer;
+}
+.wixAdsdesktopWADBottomContent:hover {
+    background-color:#222;
+}
+.wixAds[data-state~="facebook"] .wixAdsdesktopWADBottomContent {
+    width:500px;
+    margin:0 auto;
+}
+.wixAdsdesktopWADTop {
+    position:fixed;
+    z-index:999;
+    height:26px;
+    top:0;
+    right:50px;
+    overflow:hidden;
+    background-color:#404040;
+    border-radius:0 0 6px 6px;
+    pointer-events:all;
+    cursor:pointer;
+    -webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out;
+}
+.wixAdsdesktopWADTop:hover {
+    height:97px;
+    background-color:rgba(50, 50, 50, 0.8);
+}
+.wixAdsdesktopWADTop:hover .wixAdsdesktopWADTopLabel {
+    background-color:#222;
+}
+.wixAdsdesktopWADTopLabel {
+    padding:6px;
+    font-size:13px;
+    line-height:1.3em;
+    color:#FFF;
+    width:100%;
+    font-size:13px;
+    color:#FFF;
+    font-weight:bold;
+    line-height:18px;
+    text-align:justify;
+    padding:5px 10px;
+}
+.wixAds[data-state~="desktop"] .wixAdsmobileAd {
+    display:none;
+}
+.wixAds[data-state~="mobile"] .wixAdsdesktopWADTop {
+    display:none;
+}
+.wixAds[data-state~="mobile"] .wixAdsdesktopWADBottom {
+    display:none;
+}
+.wixAdsdesktopWADTopLabel .wixAds_smallMusa {
+    display:inline-block;
+    text-indent:-9999px;
+    width:16px;
+    height:16px;
+    margin-right:5px;
+    background-image:url("//static.wixstatic.com/media/0da768_0c5ce9e2ffa442bea0b79b690223a939~mv2.png");
+    background-repeat:no-repeat;
+    background-position:0% 0%;
+}
+.wixAdsdesktopWADTopLabel .wixAds_smallLogo {
+    display:inline-block;
+    text-indent:-9999px;
+    width:29px;height:16px; 
+    background-image:url("//static.wixstatic.com/media/0da768_0c5ce9e2ffa442bea0b79b690223a939~mv2.png");
+    background-repeat:no-repeat;
+    background-position:-16px top;
+}
+.wixAdsdesktopWADTopContent {
+    font-size:13px;
+    line-height:1.3em;
+    color:#ffffff;
+    font-weight:bold;
+    line-height:18px;
+    text-align:justify;
+    padding:5px 10px;width:100%;
+}
+.wixAdsdesktopWADBottomContent .wixAds_faceBanner {
+    background-color:rgba(64, 64, 64, 1);
+    width:500px;
+    height:100%;
+    margin:0 auto;
+    border-radius:6px 6px 0 0; 
+    padding:5px 0 0 0;
+}
+.wixAdsdesktopWADBottomContent .wixAds_faceBanner div {
+    display:inline-block;
+    height:30px;
+}
+.wixAdsdesktopWADBottomContent .wixAds_faceBanner .wixAds_txt {
+    color:#fff;
+    font-weight:bold;
+    font-size:15px;
+    text-align:justify;
+    margin:-2px 10px 0 19px;
+}
+.wixAdsdesktopWADBottomContent .wixAds_faceBanner .wixAds_logoDot {
+    position:static;
+    margin:0 3px;
+}
+.wixAdsdesktopWADBottomContent .wixAds_faceBanner .wixAds_emphasis {
+    font-weight:bold;
+    position:relative;
+    top:-6px;
+}
+.wixAdsdesktopWADTopContent .wixAds_spacer {
+    line-height:26px;
+}
+.wixAdsdesktopWADTopContent .wixAds_emphasis {
+    color:#ffcc00;
+}
+.wixAdsdesktopWADTopContent .wixAds_cap {
+    font-size:16px;
+    line-height:1.3em;
+    text-transform:uppercase;
+}
+.wixAdsdesktopWADTopContent .wixAds_face {
+    display:block;
+    line-height:18px;
+    text-align:justify;
+    padding:0 20px;
+    width:120px;
+}
+.wixAdsdesktopWADBottomContent .wixAds_adFootBox {
+    height:40px;
+    width:100%;
+    text-align:center;
+}
+.wixAdsdesktopWADBottomContent .wixAds_siteBanner {
+    background-color:rgba(64, 64, 64, 1);
+    border-radius:6px 6px 0 0; 
+    width:100%;
+    height:100%;
+    text-align:center;
+}
+.wixAdsdesktopWADBottomContent:hover .wixAds_siteBanner {
+    background-color:#222;
+}
+.wixAdsdesktopWADBottomContent .wixAds_siteBanner .wixAds_wrapper {
+    padding:5px 0;
+}
+.wixAdsdesktopWADBottomContent .wixAds_siteBanner .wixAds_wrapper div {
+    display:inline-block;
+    height:30px;
+}
+.wixAdsdesktopWADBottomContent .wixAds_bigMusa {
+    text-indent:-9999px;
+    width:36px; 
+    background-image:url("//static.wixstatic.com/media/0da768_0c5ce9e2ffa442bea0b79b690223a939~mv2.png");
+    background-repeat:no-repeat;
+    background-position:left bottom;
+    position:relative;
+    top:-19px;
+}
+.wixAdsdesktopWADBottomContent.wixAds_nativeAndroid .wixAds_bigMusa {
+    overflow:hidden;
+}
+.wixAdsdesktopWADBottomContent .wixAds_logoDot {
+    text-indent:-9999px;
+    width:39px;
+    height:15px;
+    position:relative;
+    top:-4px;margin:0 5px;  
+    background-image:url("//static.wixstatic.com/media/0da768_0c5ce9e2ffa442bea0b79b690223a939~mv2.png");
+    background-repeat:no-repeat;
+    background-position:right -17px;
+}
+.wixAdsdesktopWADBottomContent .wixAds_emphasis {
+    color:#ffcc00;
+    font-size:16px;
+    text-transform:uppercase;
+}
+.wixAdsdesktopWADBottomContent .wixAds_txt {
+    color:#fff;
+    font-weight:bold;
+    font-size:15px;
+}
+.wixAdsdesktopWADBottomContent .wixAds_siteBanner .wixAds_txt {
+    line-height:47px;
+}
+@media (orientation: landscape){
+    .wixAdsmobileAd {
+        display:none;
+    }
+}
+@media (orientation: landscape){
+    .wixAds_wixAds[data-state~="mobile"] {
+        display:none;
+    }
+}
+.deadComp {
+    background:transparent;
+}
+.siteBackground {
+    width:100%;
+    position:absolute;
+}
+.siteBackgroundbgBeforeTransition {
+    position:absolute;
+    top:0;
+}
+.siteBackgroundbgAfterTransition {
+    position:absolute;
+    top:0;
+}
+.loginDialog {
+    position:fixed;
+    width:100%;
+    height:100%;
+    z-index:99;
+    font-family:Arial, sans-serif;font-size:1em;
+    color:#9C9C9C;
+}
+.loginDialogblockingLayer {
+    background-color:rgba(85, 85, 85, 0.75);
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    visibility:visible;
+    zoom:1;
+    overflow:auto;
+}
+.loginDialogdialog {
+    background-color:rgba(170, 170, 170, 0.7);
+    width:455px;
+    position:fixed;
+    padding:20px;
+}
+.loginDialog_wrapper {
+    background-color:rgba(255, 255, 255, 1);
+    padding:45px 40px 0 40px;
+}
+.loginDialogxButton {
+    position:absolute;
+    top:-14px;
+    right:-14px;
+    cursor:pointer;background:transparent url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/viewer_login_sprite.png) no-repeat right top;
+    height:30px;
+    width:30px;
+}
+.loginDialogxButton:hover {
+    background-position:right -80px;
+}
+.loginDialogheader {
+    padding-bottom:25px;
+    line-height:30px;
+}
+.loginDialogfavIcon {
+    float:left;margin:7px 7px 0 0;
+    width:16px;height:16px;
+}
+.loginDialogtitle {
+    font-size:20px;
+    font-weight:bold;
+    color:#555555;
+}
+.loginDialog[data-state~="mobile"] {
+    position:absolute;
+    width:100%;
+    height:100%;
+    z-index:99;
+    font-family:Arial, sans-serif;
+    font-size:1em;
+    color:#9C9C9C;
+    top:0;
+}
+.loginDialog[data-state~="mobile"] .loginDialogheader {
+    padding-bottom:10px;
+    line-height:30px;
+}
+.loginDialog[data-state~="mobile"] .loginDialogfavIcon {
+    display:none;
+}
+.loginDialog[data-state~="mobile"] .loginDialogtitle {
+    font-size:14px;
+}
+.loginDialog[data-state~="mobile"] .loginDialogdialog {
+    width:260px;
+    padding:10px;
+    position:absolute;
+}
+.loginDialog[data-state~="mobile"] .loginDialog_footer {
+    margin-top:0;
+    padding-bottom:10px;
+}
+.loginDialog[data-state~="mobile"] .loginDialogcancel {
+    font-size:14px;
+    line-height:30px;
+}
+.loginDialog[data-state~="mobile"] .loginDialog_wrapper {
+    padding:14px 12px 0 12px;
+}
+.loginDialog[data-state~="mobile"] .loginDialogsubmitButton {
+    height:30px;width:100px;
+    font-size:14px;
+}
+.loginDialog_forgot {
+    text-align:left;
+    font-size:12px;
+}
+.loginDialog_forgot a {
+    color:#0198ff;
+    border-bottom:1px solid #0198ff;
+}
+.loginDialog_forgot a:hover {
+    color:#0044ff;
+    border-bottom:1px solid #0044ff;
+}
+.loginDialog_error {
+    font-size:12px;
+    color:#d74401;
+    text-align:right;
+}
+.loginDialog_footer {
+    width:100%;
+    margin-top:27px;
+    padding-bottom:40px;
+}
+.loginDialogcancel {
+    color:#9C9C9C;
+    font-size:18px;
+    text-decoration:underline;
+    line-height:36px;
+}
+.loginDialogcancel:hover {
+    color:#9c3c3c;
+}
+.loginDialogpasswordInput label {
+    font-size:14px;
+}
+.loginDialogpasswordInput label[data-type="password"] {
+    font-size:14px;
+    line-height:30px;
+    height:30px;
+}
+.loginDialogsubmitButton {
+    float:right;
+    cursor:pointer;
+    border:solid 2px #0064a8;
+    height:36px;
+    width:143px;
+    background:transparent url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/viewer_login_sprite.png) repeat-x right -252px;
+    color:#ffffff;
+    font-size:24px;
+    font-weight:bold;box-shadow:0 1px 3px rgba(0, 0, 0, 0.5);
+}
+.loginDialogsubmitButton:hover {
+    background-position:right -352px;
+    border-color:#004286;
+}
+.loginDialog[data-state="normal"] .loginDialogerror {
+    display:none;
+}
+.loginDialog[data-state="error"] .loginDialogerror {
+    display:block;
+    font-size:12px;
+    color:#d74401;
+    text-align:right;
+}
+.loginDialog[data-state="error"] .loginDialogpasswordInput {
+    border-color:#d74401;
+}
+.loginDialogpasswordInput {
+    font-size:1em;
+}
+.loginDialogpasswordInput label {
+    float:none;
+    font-size:17px;
+    line-height:25px;color:#585858;
+}
+.loginDialogpasswordInput[data-state~="mobile"] label {
+    float:none;
+    font-size:14px;
+    line-height:20px;
+    color:#585858;
+}
+.loginDialogpasswordInputinput {
+    padding:0 15px;
+    width:100%;
+    height:42px;
+    font-size:19px;
+    line-height:42px;
+    color:#0198ff;
+    margin:0 -3px;
+    background:transparent url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/viewer_login_sprite.png) repeat-x right -170px;
+    border:solid 1px #a1a1a1;
+    box-sizing:border-box;
+}
+.loginDialogpasswordInput[data-state~="mobile"] .loginDialogpasswordInputinput {
+    padding:0 15px;
+    width:100%;
+    height:30px;
+    font-size:14px;
+    line-height:30px;
+    color:#0198ff;
+    margin:0 -3px;
+    background:transparent url(https://static.parastorage.com/services/skins/2.1229.72/images/wysiwyg/core/themes/base/viewer_login_sprite.png) repeat-x right -170px;
+    border:solid 1px #a1a1a1;
+    box-sizing:border-box;
+}
+.loginDialogpasswordInputinput[data-type="password"] {
+    font-size:38px;
+}
+.loginDialogpasswordInput[data-state~="mobile"] .loginDialogpasswordInputinput[data-type="password"] {
+    font-size:14px;
+}
+.loginDialogpasswordInputerrorMessage {
+    display:block;
+    font-size:12px;
+    color:#d74401;
+    text-align:right;
+    height:15px;
+}
+.loginDialogpasswordInput:not([data-state~="invalid"]) .loginDialogpasswordInputerrorMessage {
+    visibility:hidden;
+}
+.loginDialogpasswordInput[data-state~="invalid"] .loginDialogpasswordInputerrorMessage {
+    visibility:visible;
+}
+.loginDialogpasswordInput[data-state~="invalid"] input {
+    border-color:#d74401;
+}
+.loginDialogpasswordInput[data-state~="invalid"] .loginDialogpasswordInputinput {
+    border-color:red;
+}
+.strc1inlineContent {
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.testStyles {
+    position:absolute; 
+    display: none;
+    z-index: 4;
+}
+.font-ruler-content::after {
+    content:"@#$%%^&*~IAO"
+}
